@@ -3,3 +3,4 @@
 
 # lang
 - python
+- golang
